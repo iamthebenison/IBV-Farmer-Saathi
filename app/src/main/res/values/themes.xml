@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpedientMLApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/Green</item>
+        <item name="colorPrimaryVariant">@color/Green</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+
+        <item name="colorSecondary">@color/Scarlet</item>
+        <item name="colorSecondaryVariant">@color/Gold</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.ExpedientMLApp" parent="Base.Theme.ExpedientMLApp" />
+</resources>

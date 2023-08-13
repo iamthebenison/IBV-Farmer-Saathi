@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653006900772",
+    "project_id": "expedientmlapp",
+    "storage_bucket": "expedientmlapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653006900772:android:5adcd0243c554537e5d2b1",
+        "android_client_info": {
+          "package_name": "com.example.expedientmlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653006900772-g0720diu85lr78r8locqh518jupt3len.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1OTOMhq0zC0cLWD0L2iYV48UM2Agj-cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653006900772-g0720diu85lr78r8locqh518jupt3len.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

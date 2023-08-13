@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExpedientMLApp</string>
+    <string name="welcome_message">WELCOME TO GREEN DOCTOR</string>
+    <string name="presentation_credits">Presented by Team 15 as a part of MADD Project</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user">Already a user? Login</string>
+    <string name="login">LOGIN</string>
+    <string name="login1">Login</string>
+    <string name="haven_t_registered_yet_register">Haven\'t registered yet? Register</string>
+    <string name="welcome_to_saathi">Welcome to SAATHI</string>
+    <string name="welcome_paragraph">
+        SAATHI as the name states is a user friendly application for gardeners and farmers to detect and identify multitude of plant diseases. \n\n
+        This application is proved to be substantially provident in attaining sustainability in nature.
+    </string>
+</resources>
